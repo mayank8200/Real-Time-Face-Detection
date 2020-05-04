@@ -33,7 +33,7 @@ A Glimpse of Output
 
 # Demo Output
 
-![demo](./demoResult.mp4)
+![demo](./demoResult.gif)
 
 # Query?
 Contact me - mayankbajaj114@gmail.com
