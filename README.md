@@ -31,6 +31,9 @@ The weight files are not included in the OpenCVsamples  directory and it require
 
 A Glimpse of Output 
 
+# Demo Output
+
+![demo](./demoResult.mp4)
 
 # Query?
 Contact me - mayankbajaj114@gmail.com
